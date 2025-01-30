@@ -1,2 +1,10 @@
 # fish-feeding-guild-classifcation
 A test of approaches to define fish feeding guilds
+
+THIS INFORMATION IS LICENSED UNDER THE CONDITIONS OF THE OPEN GOVERNMENT LICENCE found at: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3
+
+We make use of predator-prey body size scaling relationships to draw on multiple stomach content databases and derive comparable fish feeding trait information for the North Atlantic and Arctic Oceans (https://doi.org/10.14466/CefasDataHub.149; Thompson et al. 2024). Here is an example showing how to test the effectiveness of different approaches to classifying fish feeding guilds based on some example stomach contents data using cluster analyses and analysis of variance models.
+This work was undertaken for the study "Fish functional groups of the North Atlantic and Arctic Oceans ", by Murray S.A. Thompson, Izaskun Preciado, Federico Maioli, Valerio Bartolino, Andrea Belgrano, Michele Casini, Pierre Cresson, Elena Eriksen, Gema Hernandez-Milian, Ingibjörg G. Jónsdóttir, Stefan Neuenfeldt, John K. Pinnegar, Stefán Ragnarsson, Sabine Schückel, Ulrike Schückel, Brian E. Smith, María Ángeles Torres, Thomas J. Webb, and Christopher P. Lynam (in review; see also Thompson et al., 2023).
+Thompson, M. S. A., Lynam, C. P., & Preciado, I. (2023). Pilot Assessment of Feeding Guilds. In: OSPAR, 2023: The 2023 Quality Status Report for the Northeast Atlantic. https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr-2023/indicator-assessments/feeding-guild-pilot-assessment
+Thompson, M. S. A., Preciado, I., Maioli, F., Bartolino, V., Belgrano, A., Casini, M., Cresson, P., Eriksen, E., Hernandez-Milian, G., Jónsdóttir, I. G., Neuenfeldt, S., Pinnegar, J. K., Ragnarsson, S., Schückel, S., Schückel, U., Smith, B. E., Torres, M. Á., Webb, T. J., & Lynam, C. P. (2024). Modelled and observed fish feeding traits for the North Atlantic and Arctic Oceans (1836-2020) and population estimates of fish with different feeding traits from Northeast Atlantic scientific trawl surveys (1997-2020). Cefas, UK. V1. doi: https://doi.org/10.14466/CefasDataHub.149
+
