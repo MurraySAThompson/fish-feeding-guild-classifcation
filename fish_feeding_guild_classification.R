@@ -4,7 +4,7 @@
 # January 2025
 
 # data from: Thompson et al (2024). Modelled and observed fish feeding traits for the North Atlantic and Arctic Oceans (1836-2020) and population estimates of fish with different feeding traits from Northeast Atlantic scientific trawl surveys (1997-2020). Cefas, UK. V1. doi: https://doi.org/10.14466/CefasDataHub.149
-# and example data from: XXgithub
+# and example data from: https://github.com/MurraySAThompson/fish-feeding-guild-classifcation
 
 # rm(list=ls()); gc()
 
@@ -16,8 +16,10 @@ for(p in pkgs){
   library(p, character.only = TRUE)
 }
 
+# set working directory where data are stored
+#setwd()
+
 # load example data
-setwd('C:/Users/MT12/OneDrive - CEFAS/Data/Stomach contents/EuroMarine/manuscript/data')
 example_df = read_csv('example data for cluster analyses.csv')
 example_samps = read_csv('example samples for cluster analyses.csv')
 
